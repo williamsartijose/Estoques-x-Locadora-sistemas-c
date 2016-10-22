@@ -1,0 +1,57 @@
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.exe.config
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.exe
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.pdb
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.csprojResolveAssemblyReference.cache
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.Cache
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.exe
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.pdb
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmClientes.resources
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmMenu.resources
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmFilmes.resources
+D:\Aulas_2016\LPADS\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmLocacao.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.exe.config
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.exe
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.pdb
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.exe
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\Locadora.pdb
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.csprojResolveAssemblyReference.cache
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmClientes.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmFilmes.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmMenu.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmLocacao.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.Cache
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.CrystalReports.Engine.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportSource.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.Shared.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.Windows.Forms.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\FlashControlV71.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.DataDefModel.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.ClientDoc.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.ReportDefModel.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.Controllers.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.CommLayer.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.DataSetConversion.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.Prompting.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.XmlSerialize.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.CubeDefModel.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.CommonObjectModel.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.ObjectFactory.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\ShockwaveFlashObjects.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\CrystalDecisions.ReportAppServer.CommonControls.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\bin\Debug\stdole.dll
+D:\Aulas_2016\LPBCC\Aulas\02_DotNet\Locadora\Locadora\obj\Debug\Locadora.frmRelatorios.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\bin\Debug\Locadora.exe.config
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.exe
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.pdb
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\bin\Debug\Locadora.exe
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\bin\Debug\Locadora.pdb
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.csprojResolveAssemblyReference.cache
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.frmClientes.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.frmFilmes.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.frmMenu.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.frmLocacao.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.frmRelatorios.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.Properties.Resources.resources
+C:\Users\WSJ\Desktop\entregar para o tormes\Locadora\Locadora\obj\Debug\Locadora.csproj.GenerateResource.Cache
